@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.heading {
+  color: black;
+}
+.spam {
+  color: #c20a72;
+}
+.btn {
+  background-color: #007bff;
+  border-style: none;
+  cursor: point;
+  color: white;
+  max-width: 100px;
+  max-height: 45px;
+  margin-left: 600px;
+  border-radius: 3px;
+}
